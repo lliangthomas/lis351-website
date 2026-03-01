@@ -299,12 +299,11 @@ a:hover { text-decoration: underline; }
   background-repeat: no-repeat;
 }
 
-/* Optional images (already provided) */
 .img-a {
-  background-image: url("https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=800&q=60");
+  background-image: url("image/secondary1.jpg");
 }
 .img-b {
-  background-image: url("https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=800&q=60");
+  background-image: url("image/secondary2.jpg");
 }
 
 /* ===== CTA ===== */
